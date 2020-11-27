@@ -1,0 +1,5 @@
+package com.integracao.gerenciador.modulo.controller;
+
+public class IntegracaoController {
+
+}

@@ -1,0 +1,5 @@
+package com.integracao.gerenciador.modulo.configuration;
+
+public class CorsConfiguration {
+
+}
